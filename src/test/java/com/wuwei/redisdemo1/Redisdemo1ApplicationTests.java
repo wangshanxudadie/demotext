@@ -14,6 +14,7 @@ class Redisdemo1ApplicationTests {
     @Test
     void contextLoads() {
         System.out.println("git add");
+        System.out.println("commit add");
     }
 
 }
